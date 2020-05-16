@@ -23,3 +23,7 @@ exploration on the provided FIFA 19 complete player dataset.
 I got FIFA 19 football dataset from Kaggle.com. Special thanks to Mr. Karan Gadhiya who
 provided this dataset on Kaggle. The link to the dataset is given below:
 https://www.kaggle.com/karangadiya/fifa19
+
+# Data Visualization Link
+  
+  https://public.tableau.com/profile/rishindramani#!/vizhome/fifa19_15871740855920/FIFA19
